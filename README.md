@@ -8,7 +8,8 @@
 |Age| 26살 98년생|
 |Major in| 산림환경학과 18학번|
 |MBTI| ENTP |
-|Hobby| RPG게임|
+|Hobby| RPG게임(로스트아크)|
+
 
 <br>
 
